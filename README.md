@@ -40,4 +40,17 @@
 ## la question sur les differentes variations de concentrations d'amidon : 
 - se referent sur la quatité d'amidon utilisée dans le mélange.
 - le protocole ne donne pas des chiffres exacts mais il est prévu de préparer plusieurs formulations en variant la quantité d'amidon. exemple une faible , moyenne et forte.
+
+## preparation : 
+- amidon 10 g
+- Glycerol 8 mL
+- eau 100 mL
+- HCl 100 ml
+- NaOH 4 à 8 mL à PH neutre
+
+- Amidon/GLy = 1.25
+- eau / Amidon = 10
+- Hcl / Amidon = 1.2
+- NaOH / Amidon = 0.4 à 1.2
+  
   
