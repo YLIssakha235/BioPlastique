@@ -53,4 +53,56 @@
 - Hcl / Amidon = 1.2
 - NaOH / Amidon = 0.4 à 1.2
   
-  
+
+  # 🎤 Présentation orale – Projet Bioplastique
+
+## 🧪 Résumé rapide
+
+Ce travail avait pour objectif de concevoir un bioplastique à base d’amidon (maïs, pomme de terre).  
+On a testé l’influence du pH, du glycérol et des proportions d’amidon sur la qualité du film obtenu.
+
+Les échantillons ont été testés :
+- pendant **7 jours** dans l’eau, le vinaigre, la soude,
+- pendant **28 jours** dans l’air, l’eau et la terre (biodégradabilité).
+
+> 🔎 Résultat : les meilleurs films sont ceux à **pH neutre**, avec un **dosage équilibré** et de l’**amidon industriel**.
+
+---
+
+## ❓ Questions fréquentes et réponses courtes
+
+### Pourquoi avoir choisi l’amidon ?
+> C’est naturel, renouvelable et forme des films sous chaleur/humidité.
+
+### À quoi sert le glycérol ?
+> À assouplir le film. Trop de glycérol = film trop mou et fragile.
+
+### Comment avez-vous mesuré la biodégradabilité ?
+> En pesant les films avant/après 28 jours, et en calculant la variation de masse.
+
+### Pourquoi EA5 a disparu dans la terre ?
+> Il était très souple, donc facilement biodégradable dans un sol humide.
+
+### Pourquoi certains films ont gagné de la masse ?
+> À cause de l’absorption d’eau (EA6 et EA3 notamment).
+
+### Pourquoi EA4 n’a pas fonctionné ?
+> Le pH trop acide a bloqué la polymérisation → aucun film formé.
+
+### Quel est le pH optimal ?
+> Entre 6 et 7. Il permet une réaction équilibrée et une bonne cohésion.
+
+### Quelle différence entre amidon maison et industriel ?
+> L’amidon maison (EA2) était plus impur → film granuleux et rigide.
+
+---
+
+## 🧠 Ce que j’ai retenu
+
+- Le bioplastique dépend de l’équilibre entre pH, plastifiant et amidon.
+- Un test simple comme la **variation de masse** permet de voir la résistance ou la dégradation.
+- J’ai aussi expérimenté **l’extraction artisanale** à la maison.
+
+---
+
+
